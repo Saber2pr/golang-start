@@ -1,8 +1,13 @@
 package hello
 
-import "golangstart/pkg/utils"
+import (
+	"golangstart/pkg/utils"
+
+	"github.com/hashicorp/go-uuid"
+)
 
 func Log() string {
 	str := utils.TestStr()
-	return str
+	uuid, _ := uuid.GenerateUUID()
+	return str + uuid
 }
