@@ -1,4 +1,6 @@
 github.com/bitly/go-simplejson v0.5.0 h1:6IH+V8/tVMab511d5bn4M7EwGXZf9Hj6i2xSwkNEM+Y=
 github.com/bitly/go-simplejson v0.5.0/go.mod h1:cXHtHw4XUPsvGaxgjIAn8PhEWG9NfngEKAMDJEczWVA=
+github.com/favar/lambda v0.0.0-20210129094225-b7a424067857 h1:dsVE2JLkYXbjRuL05mA6nkD9KVAEPnHPSyEQfxOw8m8=
+github.com/favar/lambda v0.0.0-20210129094225-b7a424067857/go.mod h1:H2oue9kJWo7/+GoOrJx9tNQZm8RMfSU2tolW2dgqfno=
 github.com/hashicorp/go-uuid v1.0.2 h1:cfejS+Tpcp13yd5nYHWDI6qVCny6wyX2Mt5SGur2IGE=
 github.com/hashicorp/go-uuid v1.0.2/go.mod h1:6SBZvOh/SIDV7/2o3Jml5SYk/TvGqwFJ/bN7x4byOro=
